@@ -7,4 +7,5 @@ Created a new branch feature_2.
 at Home: changes to master.
 at home: changes to feature 2 branch.
 created feature 3.
-Trigerring a build in Jenkins.
+Triggerring a build in Jenkins.
+Test another Jenkins trigger.
